@@ -32,7 +32,10 @@ KAELIT's architecture is conceptually divided into three layers:
 3. **Documentation and Partner Access:**  
    Additional details and modules are maintained in closed repositories and shared only under NDA.
 
-*(A detailed architectural diagram is available upon formal request.)*
+## KAELIT High-Level Architecture
+
+![KAELIT Architecture](architecture.png)
+
 
 ## Interface and API Design
 The public demo (kaelit-interface) illustrates the structure of our JSON-RPC interface, including:
