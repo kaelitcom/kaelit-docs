@@ -1,0 +1,16 @@
+KAELIT Technical Documents © 2025 KAELIT Project (https://kaelit.com). All rights reserved.
+
+This repository contains public-facing documentation related to the KAELIT blockchain project.
+The materials included here are provided for informational and demonstration purposes only.
+
+You are NOT permitted to:
+- use these documents for commercial or production purposes,
+- redistribute, reproduce, or modify the contents in any form,
+- remove attribution or claim authorship.
+
+These documents are proprietary intellectual property of the KAELIT Project.
+Unauthorized use or duplication is strictly prohibited and may result in legal action.
+
+This repository and its contents are governed by the laws of the Republic of Korea and applicable international copyright treaties.
+
+For partnership inquiries or full technical access, visit: https://kaelit.com
