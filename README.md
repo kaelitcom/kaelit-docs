@@ -52,7 +52,7 @@ We will continue updating this documentation with further architectural summarie
 - Summaries of consensus and parallel processing strategies.
 - Detailed roadmaps for upcoming development phases.
 
-**Confidential Note:** This document is intended solely for public demonstration. All core technical details are confidential and will only be disclosed under formal partnership agreements or NDA.
+**Confidential Note:** This document is intended solely for public demonstration. All core technical details are confidential and will only be disclosed under formal partnership agreements.
 
 ---
 
