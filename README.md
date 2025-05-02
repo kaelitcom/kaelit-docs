@@ -1,3 +1,4 @@
+- [Architecture Snapshot (v0.2)](https://github.com/kaelitcom/kaelit-research/releases/tag/v0.2)
 [📌 View the Initial Public Architecture Snapshot (v0.1)](https://github.com/kaelitcom/kaelit-research/releases/tag/v0.1)
 
 # KAELIT Technical Overview (Demo)
